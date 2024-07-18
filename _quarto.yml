@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/petzi53/quarto-pb-blog
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/pbaumgartner
 format:
   html:
     theme: cosmo

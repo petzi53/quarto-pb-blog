@@ -1,1 +1,14 @@
-/* css styles */
+/* my css styles */
+
+/* center figure caption whenever image is centered */
+.quarto-figure-center figcaption.figure-caption {
+  margin: auto;
+  text-align: center;
+}
+
+/* field width of contact form */
+.myform {
+    width: 500px;
+}
+
+
